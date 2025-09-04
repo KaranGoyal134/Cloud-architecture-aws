@@ -76,7 +76,7 @@ The setup simulates how real-world applications are deployed in enterprises usin
   ![ALB](./Screenshots/alb.png)
 
 - **NAT Gateway**  
-  ![NAT Gateway](./Screenshots/nat-gateway.png)
+  ![NAT Gateway](./Screenshots/nat-gateways.png)
 
 - **Bastion Host**  
   ![Bastion Host](./Screenshots/bastion-ec2.png)
