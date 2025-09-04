@@ -61,31 +61,31 @@ The setup simulates how real-world applications are deployed in enterprises usin
 ## Screenshots
 
 - **VPC Setup**  
-  ![VPC Architecture](./screenshots/VPC-Architecture.png)
+  ![VPC Architecture](./Screenshots/VPC-Architecture.png)
 
 - **Subnets**  
-  ![Subnets](./screenshots/subnets.png)
+  ![Subnets](./Screenshots/subnets.png)
 
 - **Auto Scaling Group**  
-  ![Auto Scaling Group](./screenshots/ASG-ec2.png)
+  ![Auto Scaling Group](./Screenshots/ASG-ec2.png)
 
 - **Launch Template**  
-  ![Launch Template](./screenshots/launch-template.png)
+  ![Launch Template](./Screenshots/launch-template.png)
 
 - **Application Load Balancer**  
-  ![ALB](./screenshots/alb.png)
+  ![ALB](./Screenshots/alb.png)
 
 - **NAT Gateway**  
-  ![NAT Gateway](./screenshots/nat-gateway.png)
+  ![NAT Gateway](./Screenshots/nat-gateway.png)
 
 - **Bastion Host**  
-  ![Bastion Host](./screenshots/bastion-ec2.png)
+  ![Bastion Host](./Screenshots/bastion-ec2.png)
 
 - **Security Groups**  
-  ![Security Groups](./screenshots/security-groups.png)
+  ![Security Groups](./Screenshots/security-groups.png)
 
 -**Hosted Website**
-![Website](./screenshots/website.png)
+![Website](./Screenshots/website.png)
 
 ---
 
