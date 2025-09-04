@@ -61,13 +61,13 @@ The setup simulates how real-world applications are deployed in enterprises usin
 ## Screenshots
 
 - **VPC Setup**  
-  ![VPC Dashboard](./screenshots/vpc-dashboard.png)
+  ![VPC Architecture](./screenshots/VPC-Architecture.png)
 
 - **Subnets**  
   ![Subnets](./screenshots/subnets.png)
 
 - **Auto Scaling Group**  
-  ![Auto Scaling Group](./screenshots/asg-ec2.png)
+  ![Auto Scaling Group](./screenshots/ASG-ec2.png)
 
 - **Launch Template**  
   ![Launch Template](./screenshots/launch-template.png)
@@ -83,6 +83,9 @@ The setup simulates how real-world applications are deployed in enterprises usin
 
 - **Security Groups**  
   ![Security Groups](./screenshots/security-groups.png)
+
+-**Hosted Website**
+![Website](./screenshots/website.png)
 
 ---
 
